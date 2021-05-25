@@ -1,4 +1,4 @@
-# translate
+# translate Windows10翻译应用程序
 一个快速简洁的中英翻译windows应用程序.
 # 预览
 ![image](https://user-images.githubusercontent.com/28991681/119548364-ba33d500-bdc8-11eb-91a5-52017a46f5d1.png)
